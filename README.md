@@ -141,12 +141,6 @@ Pillow
 matplotlib
 ```
 
-Установите их с помощью команды:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Лицензия
 
 Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
